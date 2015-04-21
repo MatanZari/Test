@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Matan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Matan\AndroidStudioProjects\TestAPK\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-010db0a3a7db7b5993999438c5a0cae14f0e4f97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matan\AndroidStudioProjects\TestAPK\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="C:\Users\Matan\AndroidStudioProjects\TestAPK\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-2bb843a8d3061f3d3c1ad084db1f566d1da3abf1.jar" />
+    </item>
+    <item
+        jar="D:\Android\Android SDK\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Matan\AndroidStudioProjects\TestAPK\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-ec78b74da9ba98b2477d860f97cc699abd22230c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matan\AndroidStudioProjects\TestAPK\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Matan\AndroidStudioProjects\TestAPK\app\build\intermediates\pre-dexed\debug\classes-d6406db891266cd8001aa8916f8e2d542950c5cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matan\AndroidStudioProjects\TestAPK\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Matan\AndroidStudioProjects\TestAPK\app\build\intermediates\pre-dexed\debug\classes-3b8a81344264d75016fb51a65a97163aaaf177d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matan\AndroidStudioProjects\TestAPK\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Matan\AndroidStudioProjects\TestAPK\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-ccc3c8647eb8bba0eb7f808ca9d017ca9e3469cb.jar" />
+    </item>
+
+</items>
